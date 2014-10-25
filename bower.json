@@ -1,0 +1,18 @@
+{
+  "name": "requirejs-stub",
+  "version": "1.0.0",
+  "homepage": "https://github.com/atesgoral/requirejs-stub",
+  "authors": [
+    "Ates Goral <ates@magnetiq.com>"
+  ],
+  "description": "A replacement loader to completely stub out a loader during a r.js build",
+  "main": "stub.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "requirejs",
+    "build"
+  ],
+  "license": "MIT"
+}
