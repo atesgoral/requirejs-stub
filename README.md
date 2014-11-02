@@ -1,7 +1,7 @@
 requirejs-stub
 ==============
 
-Stub loader plugin for leaving out AMD loader plugins during optimization.
+Stub loader plugin to completely disable a loader plugin during optimization.
 
 `bower install --save-dev requirejs-stub`
 
